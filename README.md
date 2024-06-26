@@ -53,7 +53,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Quercy-tech/Quercy-tech/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
