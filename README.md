@@ -47,19 +47,3 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/5dl1ru8jh3rfm17733yb44ows">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=5dl1ru8jh3rfm17733yb44ows&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
